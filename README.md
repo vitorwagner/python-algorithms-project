@@ -1,10 +1,11 @@
-# Recipes App
+# Python Algorithms
 Projeto da [Trybe](https://www.betrybe.com/).
 
 ## 💻 Projeto
 
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
+> Python
 
 ## 💬 Contato
 
